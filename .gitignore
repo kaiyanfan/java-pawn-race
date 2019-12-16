@@ -1,0 +1,8 @@
+#ignore junk files produced by IntelliJ
+.idea/
+
+#ignore junk files from compiling Java code
+*.class
+
+#ingore spec
+*.pdf
